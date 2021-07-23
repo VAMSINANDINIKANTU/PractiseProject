@@ -8,6 +8,7 @@ public class FactorialDemo {
 
 		}
 		System.out.println("factorial of number " + num + "is" + fact);
+		System.out.println("nandu");
 
 	}
 
